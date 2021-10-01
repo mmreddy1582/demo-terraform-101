@@ -3,6 +3,7 @@ terraform {
 }
 
 # Updated by Mura
+# updated by Mura for second 
 provider "aws" {
   # MODIFY this line to look for 2.27.0 or greater
   version = ">= 2.27.0"
